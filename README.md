@@ -1,1 +1,1 @@
-# Buddychat
+Buddychat
